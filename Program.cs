@@ -1,4 +1,6 @@
-﻿using System; // Importerar System biblioteket för konsolapplikationer
+//NET25 Mustafa Alikhadyer
+
+using System; // Importerar System biblioteket för konsolapplikationer
 
 class Program // Definierar huvudklassen Program
 {
